@@ -1,0 +1,16 @@
+REFERENCES
+——————————
+
+1. ‘Enron61702insiderpay.pdf’ - this file was provided by Udacity and used for the purposes of data checking and cleaning
+
+2. Many coding questions were addressed on stackoverflow.com
+
+3. The Udacity forums were an invaluable resource for project specific questions
+
+4. http://scikit-learn.org was a key resource for using the various sklearn libraries and features
+
+5. The feature_format.py and tester.py files (instrumental for formatting the data and testing the algorithm, respectively) were provided by Udacity
+
+6. Much learning and information was obtained from the Udacity slides for Data Analyst Nanodegree: Project 5
+
+7. 7.	Wikipedia provided some additional information on the Enron story and also on precision and recall
